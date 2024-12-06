@@ -1,5 +1,6 @@
 ﻿using Jamesnet.Wpf.Controls;
 using System.Windows;
+using WpfExplorer.Forms.UI.Views;
 using WpfExplorer.Support.UI.Units;
 
 namespace WpfExplorer
@@ -15,7 +16,8 @@ namespace WpfExplorer
             bool DarkModel = true;
             if(DarkModel)
             {
-                return new DarkWindow(); // 설정됐는지 확인
+                return new ExplorerWindow();
+                //return new DarkWindow(); // 설정됐는지 확인
                 //return new DarkThemeWindow(); // 다크모드 설정
             }
             else
