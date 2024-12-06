@@ -1,4 +1,6 @@
-﻿namespace WpfExplorer
+﻿using WpfExplorer.Properties;
+
+namespace WpfExplorer
 {
     /*
         App.xaml 파일을 폐기함으로 인해, 더 이상 자동으로 프로그램을 실행하는 것이 불가능하게 됨.
@@ -9,7 +11,10 @@
         [STAThread]
         private static void Main(string[] args)
         {
-            _ = new App().Run();
+            _ = new App()
+                .AddInversionModule<HelperModules>()
+                .AddWireDataContext<WireDataContext>()
+                .Run();
         }
 
     }

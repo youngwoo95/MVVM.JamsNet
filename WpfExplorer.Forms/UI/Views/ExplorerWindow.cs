@@ -14,7 +14,8 @@ namespace WpfExplorer.Forms.UI.Views
 
         public ExplorerWindow()
         {
-            DataContext = new ExplorerViewModel();
+            //DataContext = new ExplorerViewModel();
+
         }
     }
 }
