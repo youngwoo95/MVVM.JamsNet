@@ -1,11 +1,11 @@
-﻿using Prism.Ioc;
+﻿using Jamesnet.Wpf.Controls;
+using Prism.Ioc;
 using Prism.Modularity;
-using WpfExplorer.Support.Local.Helpers;
-
+using WpfExplorer.Main.UI.Views;
 
 namespace WpfExplorer.Properties
 {
-    internal class HelperModules : IModule
+    internal class ViewModules : IModule
     {
         public void OnInitialized(IContainerProvider containerProvider)
         {
@@ -14,8 +14,7 @@ namespace WpfExplorer.Properties
 
         public void RegisterTypes(IContainerRegistry containerRegistry)
         {
-            containerRegistry.RegisterSingleton<DirectoryManager>();
-            containerRegistry.RegisterSingleton<FileService>();
+            containerRegistry.RegisterSingleton<IViewable, MainContent>("MainContent");
         }
     }
 }

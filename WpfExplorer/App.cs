@@ -1,7 +1,6 @@
 ﻿using Jamesnet.Wpf.Controls;
 using System.Windows;
 using WpfExplorer.Forms.UI.Views;
-using WpfExplorer.Support.UI.Units;
 
 namespace WpfExplorer
 {

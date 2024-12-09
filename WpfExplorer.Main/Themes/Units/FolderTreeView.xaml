@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:units="clr-namespace:WpfExplorer.Forms.UI.Units">
+                    xmlns:units="clr-namespace:WpfExplorer.Main.UI.Units">
     <Style TargetType="{x:Type units:FolderTreeView}">
         <Setter Property="Template">
             <Setter.Value>

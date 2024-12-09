@@ -1,5 +1,4 @@
 ﻿using System.Windows;
-using WpfExplorer.Forms.Local.ViewModels;
 using WpfExplorer.Support.UI.Units;
 
 namespace WpfExplorer.Forms.UI.Views

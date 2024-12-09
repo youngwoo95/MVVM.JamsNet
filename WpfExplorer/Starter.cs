@@ -13,6 +13,7 @@ namespace WpfExplorer
         {
             _ = new App()
                 .AddInversionModule<HelperModules>()
+                .AddInversionModule<ViewModules>()
                 .AddWireDataContext<WireDataContext>()
                 .Run();
         }

@@ -1,8 +1,8 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:james="clr-namespace:Jamesnet.Wpf.Controls;assembly=Jamesnet.Wpf"
                     xmlns:based="clr-namespace:WpfExplorer.Support.UI.Units;assembly=WpfExplorer.Support"
-                    xmlns:views="clr-namespace:WpfExplorer.Forms.UI.Views"
-                    xmlns:units="clr-namespace:WpfExplorer.Forms.UI.Units">
+                    xmlns:views="clr-namespace:WpfExplorer.Forms.UI.Views">
     <!--
         BaseOn 속성은 WPF에서 스타일 상속을 제공하는 기능.
             - 이를 통해 기존에 정의된 스타일을 기반으로 새로운 스타일을 확장하거나 커스터마이징할 수 있음.
@@ -19,30 +19,9 @@
     <Style TargetType="{x:Type views:ExplorerWindow}" BasedOn="{StaticResource {x:Type based:DarkWindow}}">
         <Setter Property="Content">
             <Setter.Value>
-                <StackPanel>
-                    <TextBlock Text="{Binding}" Foreground="#fff"/>
-                    <TextBlock Text="{Binding DownloadDirectory}" Background="#fff"/>
-                    <TextBlock Text="{Binding DocumentsDirectory}" Background="#fff"/>
-                    <TextBlock Text="{Binding PicturesDirectory}" Background="#fff"/>
-
-                    <units:FolderTreeView>
-                        <units:FolderTreeItem Header="dimohy"/>
-                        <units:FolderTreeItem Header="vincent"/>
-                        <units:FolderTreeItem Header="rkttu"/>
-
-                        <!--<TreeViewItem>Lucas</TreeViewItem>
-                        <TreeViewItem>Kevin</TreeViewItem>
-                        <TreeViewItem>Joolo</TreeViewItem>-->
-                    </units:FolderTreeView>
-                </StackPanel>
+                <james:JamesRegion RegionName="MainRegion"/>
             </Setter.Value>
         </Setter>
-        
-        <!--<Setter Property="Content">
-            <Setter.Value>
-                <units:FolderTreeView/>
-            </Setter.Value>
-        </Setter>-->
     </Style>
     
 </ResourceDictionary>
