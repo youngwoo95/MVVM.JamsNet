@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\themes\\views\\explorerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\themes\\views\\explorerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\local\\viewmodels\\explorerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\local\\viewmodels\\explorerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\ui\\views\\explorerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\ui\\views\\explorerwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer\\properties\\wiredatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\properties\\wiredatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer\\properties\\helpermodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}|WpfExplorer\\WpfExplorer.csproj|solutionrelative:wpfexplorer\\properties\\helpermodules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\wpfexplorer.support.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\wpfexplorer.support.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\local\\helpers\\directorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\local\\helpers\\directorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\local\\models\\folderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\local\\models\\folderinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\local\\models\\fileinfobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\local\\models\\fileinfobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\themes\\units\\foldertreeitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\themes\\units\\foldertreeitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\ui\\units\\foldertreeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\ui\\units\\foldertreeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\ui\\units\\foldertreeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\ui\\units\\foldertreeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\themes\\units\\foldertreeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\themes\\units\\foldertreeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.forms\\wpfexplorer.forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC920666-16B4-41D9-B221-30E5B90D72F9}|WpfExplorer.Forms\\WpfExplorer.Forms.csproj|solutionrelative:wpfexplorer.forms\\wpfexplorer.forms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\themes\\units\\darkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\darkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\themes\\units\\closebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\closebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\themes\\units\\minimizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\minimizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\ui\\units\\minimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\minimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\ui\\units\\maximizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\maximizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\ui\\units\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\ui\\units\\darkscollviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\darkscollviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\themes\\units\\darkscrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\darkscrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\ui\\units\\darkwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\ui\\units\\darkwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer\\wpfexplorer.support\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59F9E8B-562A-43AF-A532-0118C816F241}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WireDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\Properties\\WireDataContext.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\Properties\\WireDataContext.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\Properties\\WireDataContext.cs",
+              "RelativeToolTip": "WpfExplorer\\Properties\\WireDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:04:46.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HelperModules.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\Properties\\HelperModules.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\Properties\\HelperModules.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\Properties\\HelperModules.cs",
+              "RelativeToolTip": "WpfExplorer\\Properties\\HelperModules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:03:30.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WpfExplorer.Support",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "RelativeToolTip": "WpfExplorer.Support\\WpfExplorer.Support.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T08:02:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\App.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\App.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\App.cs",
+              "RelativeToolTip": "WpfExplorer\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:22:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DirectoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Local\\Helpers\\DirectoryManager.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Local\\Helpers\\DirectoryManager.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Local\\Helpers\\DirectoryManager.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\Local\\Helpers\\DirectoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:02:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExplorerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Local\\ViewModels\\ExplorerViewModel.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\Local\\ViewModels\\ExplorerViewModel.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Local\\ViewModels\\ExplorerViewModel.cs",
+              "RelativeToolTip": "WpfExplorer.Forms\\Local\\ViewModels\\ExplorerViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:55:38.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\Starter.cs",
+              "RelativeDocumentMoniker": "WpfExplorer\\Starter.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer\\Starter.cs",
+              "RelativeToolTip": "WpfExplorer\\Starter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:25:56.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExplorerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Views\\ExplorerWindow.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\Themes\\Views\\ExplorerWindow.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Views\\ExplorerWindow.xaml",
+              "RelativeToolTip": "WpfExplorer.Forms\\Themes\\Views\\ExplorerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T07:37:55.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FolderInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Local\\Models\\FolderInfo.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Local\\Models\\FolderInfo.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Local\\Models\\FolderInfo.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\Local\\Models\\FolderInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:01:38.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileInfoBase.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Local\\Models\\FileInfoBase.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Local\\Models\\FileInfoBase.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Local\\Models\\FileInfoBase.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\Local\\Models\\FileInfoBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T08:00:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExplorerWindow.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\UI\\Views\\ExplorerWindow.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\UI\\Views\\ExplorerWindow.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\UI\\Views\\ExplorerWindow.cs",
+              "RelativeToolTip": "WpfExplorer.Forms\\UI\\Views\\ExplorerWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:37:03.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FolderTreeItem.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Units\\FolderTreeItem.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\Themes\\Units\\FolderTreeItem.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Units\\FolderTreeItem.xaml",
+              "RelativeToolTip": "WpfExplorer.Forms\\Themes\\Units\\FolderTreeItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T07:51:29.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FolderTreeItem.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\UI\\Units\\FolderTreeItem.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\UI\\Units\\FolderTreeItem.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\UI\\Units\\FolderTreeItem.cs",
+              "RelativeToolTip": "WpfExplorer.Forms\\UI\\Units\\FolderTreeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:50:53.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FolderTreeView.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\UI\\Units\\FolderTreeView.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\UI\\Units\\FolderTreeView.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\UI\\Units\\FolderTreeView.cs",
+              "RelativeToolTip": "WpfExplorer.Forms\\UI\\Units\\FolderTreeView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:44:17.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FolderTreeView.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Units\\FolderTreeView.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\Themes\\Units\\FolderTreeView.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Units\\FolderTreeView.xaml",
+              "RelativeToolTip": "WpfExplorer.Forms\\Themes\\Units\\FolderTreeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T07:45:02.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfExplorer.Forms\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T07:35:19.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WpfExplorer.Forms",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\WpfExplorer.Forms.csproj",
+              "RelativeDocumentMoniker": "WpfExplorer.Forms\\WpfExplorer.Forms.csproj",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Forms\\WpfExplorer.Forms.csproj",
+              "RelativeToolTip": "WpfExplorer.Forms\\WpfExplorer.Forms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T07:43:17.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CloseButton.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\CloseButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T06:47:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MinimizeButton.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T06:47:19.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T06:32:52.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DarkWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\DarkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T06:43:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MinimizeButton.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\MinimizeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:08:19.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MaximizeButton.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T06:47:33.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MaximizeButton.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\MaximizeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T07:05:50.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CloseButton.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\CloseButton.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:53:08.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DarkScollViewer.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\DarkScollViewer.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\DarkScollViewer.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\DarkScollViewer.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\DarkScollViewer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:41:40.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DarkScrollViewer.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T06:44:02.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DarkWindow.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\UI\\Units\\DarkWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:36:24.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer\\WpfExplorer.Support\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfExplorer.Support\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:32:42.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

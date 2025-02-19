@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer", "WpfExplorer\WpfExplorer.csproj", "{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer.Support", "WpfExplorer.Support\WpfExplorer.Support.csproj", "{F59F9E8B-562A-43AF-A532-0118C816F241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer.Forms", "WpfExplorer.Forms\WpfExplorer.Forms.csproj", "{CC920666-16B4-41D9-B221-30E5B90D72F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127BAF6C-FE64-45E0-AC9E-3E2BD145F039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59F9E8B-562A-43AF-A532-0118C816F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59F9E8B-562A-43AF-A532-0118C816F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59F9E8B-562A-43AF-A532-0118C816F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59F9E8B-562A-43AF-A532-0118C816F241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC920666-16B4-41D9-B221-30E5B90D72F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC920666-16B4-41D9-B221-30E5B90D72F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC920666-16B4-41D9-B221-30E5B90D72F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC920666-16B4-41D9-B221-30E5B90D72F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
