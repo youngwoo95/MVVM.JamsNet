@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B3315E-350A-4A11-B57B-8F58D44AA49E}|WpfExplorer.Support\\WpfExplorer.Support.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76B3315E-350A-4A11-B57B-8F58D44AA49E}|WpfExplorer.Support\\WpfExplorer.Support.csproj|solutionrelative:wpfexplorer.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5031B881-50F6-4C31-BB27-1345882F6055}|WpfExplorer.Main\\WpfExplorer.Main.csproj|c:\\users\\kyw\\documents\\mvvm.jamsnet\\wpfexplorer.main\\local\\viewmodels\\maincontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5031B881-50F6-4C31-BB27-1345882F6055}|WpfExplorer.Main\\WpfExplorer.Main.csproj|solutionrelative:wpfexplorer.main\\local\\viewmodels\\maincontentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaximizeButton.xaml",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeToolTip": "WpfExplorer.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-04T04:45:10.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainContentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer.Main\\Local\\ViewModels\\MainContentViewModel.cs",
+              "RelativeDocumentMoniker": "WpfExplorer.Main\\Local\\ViewModels\\MainContentViewModel.cs",
+              "ToolTip": "C:\\Users\\kyw\\Documents\\MVVM.JamsNet\\WpfExplorer.Main\\Local\\ViewModels\\MainContentViewModel.cs",
+              "RelativeToolTip": "WpfExplorer.Main\\Local\\ViewModels\\MainContentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:29:41.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
